@@ -12,6 +12,7 @@
   "description": "",
   "dependencies": {
     "coconutdb": "^3.0.0-beta",
+    "coconutdb-compass-v1-beta": "file:coconutdb-compass-v1-beta-1.0.0.tgz",
     "cors": "^2.8.5",
     "dotenv": "^17.0.0",
     "express": "^5.1.0",
